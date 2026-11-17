@@ -50,19 +50,22 @@ The aim is to design and simulate a 2:1 multiplexer (MUX) using Synopsys EDA too
 
 ### 2. Schematic of 2:1 MUX
 
-<img width="994" height="625" alt="WhatsApp Image 2026-10-29 at 3 12 55 PM" src="https://github.com/user-attachments/assets/978360f3-72ca-4b4d-9e10-a83b9570f685" />
+<img width="966" height="606" alt="EXP3 - Circuit Schematic" src="https://github.com/user-attachments/assets/05a07397-0ef3-4978-bf25-9bb0978945dc" />
+
 
 
 ### 3. Transient Response Setup
 
-<img width="1600" height="663" alt="WhatsApp Image 2026-10-29 at 3 19 17 PM" src="https://github.com/user-attachments/assets/d52f46b4-da43-4396-8c39-63c3d9035101" />
+<img width="1534" height="816" alt="EXP3 - Transient Response Setup" src="https://github.com/user-attachments/assets/e7c467ec-3a3f-4625-910e-e8d0cf8e1474" />
+
 
 
 ## Output
 
 ### 1. Transient Analysis Output
 
-<img width="1600" height="822" alt="WhatsApp Image 2026-10-29 at 3 11 22 PM" src="https://github.com/user-attachments/assets/a73be4f9-2f9f-4c07-ac81-bab918ca30b7" />
+<img width="1533" height="590" alt="EXP3 - Output Waveform" src="https://github.com/user-attachments/assets/41b473d2-7f45-44a7-a96f-e88c1c9c807e" />
+
 
 
 ## Results
